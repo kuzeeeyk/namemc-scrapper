@@ -8,7 +8,7 @@ will be scrapped)
 
 - Open chrome://extensions in Google Chrome
 
-- Press the "Load unpacked" button located in top left
+- Press the "Load unpacked" button located in top left after enabling dev mode
 
 - Select extension folder
 
